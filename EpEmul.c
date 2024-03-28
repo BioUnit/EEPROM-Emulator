@@ -1,6 +1,5 @@
 #include "main.h"
 #include "EpEmul.h"
-// Enjoy! Douche.
 
 
 FLASH_EraseInitTypeDef erase = {FLASH_TYPEERASE_PAGES, FLASH_BANK_2, 0, 1};		// structure for erasing routine
